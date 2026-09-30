@@ -25,6 +25,8 @@ Important information can be spread across:
 - Proposals
 - RFP documents
 - Customer messages
+
+  
 🎯 Problem Statement
 
 Traditional sales systems mainly store information.
@@ -49,6 +51,8 @@ This process is time-consuming and can cause important signals to be missed.
 - Pricing discussions
 - Security reviews
 - Stakeholder conversations
+
+
 💡 Our Solution
 
 DealMind converts scattered deal information into structured intelligence.
